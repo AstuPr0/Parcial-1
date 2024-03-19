@@ -1,0 +1,10 @@
+.img {
+    display: inline-block; /* Elemento en línea que se comporta como bloque */
+    width: 30%; /* Ancho de la imagen */
+    vertical-align: top; /* Alinear la imagen en la parte superior */
+  }
+
+.info-noticia {
+    display: inline-block; /* Elemento en línea que se comporta como bloque */
+    width: 65%; /* Ancho del texto */
+  }
